@@ -1,0 +1,7 @@
+#!/bin/bash
+
+sudo cp unahurlogo-floaters.desktop /usr/share/applications/screensavers/unahurlogo-floaters.desktop
+# sudo chmod 755 /usr/share/applications/screensavers/unahurlogo-floaters.desktop
+
+sudo cp UNAHUR-logo.svg /usr/share/pixmaps/UNAHUR-logo.svg
+# sudo chmod 755 /usr/share/pixmaps/UNAHUR-logo.svg
